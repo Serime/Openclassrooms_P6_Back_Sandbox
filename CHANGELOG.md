@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Serime/Openclassrooms_P6_Back_Sandbox/compare/v1.0.1...v1.0.2) (2026-10-28)
+
+
+### Bug Fixes
+
+* trigger demo release v2 ([cb9fcf7](https://github.com/Serime/Openclassrooms_P6_Back_Sandbox/commit/cb9fcf76864683d17c7adbbeae04f44dc9200485))
+
 ## [1.0.1](https://github.com/Serime/Openclassrooms_P6_Back_Sandbox/compare/v1.0.0...v1.0.1) (2026-10-28)
 
 
